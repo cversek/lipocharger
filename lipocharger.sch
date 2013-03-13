@@ -7,7 +7,7 @@ C 44500 17500 0 0 0 title-E.sym
 T 81500 18200 9 32 1 0 0 0 1
 LiPo Charger
 T 85400 17600 9 10 1 0 0 0 1
-Ben Gamari and Don Blair
+Ben Gamari, Don Blair, and Craig Versek
 T 85300 17900 9 10 1 0 0 0 1
 1
 T 81500 17600 9 10 1 0 0 0 1
@@ -15,7 +15,7 @@ T 81500 17600 9 10 1 0 0 0 1
 T 83000 17600 9 10 1 0 0 0 1
 1
 T 81500 17900 9 10 1 0 0 0 1
-OLM.sch
+lipocharger.sch
 C 60300 30500 1 0 0 MCP73871.sym
 {
 T 62700 35300 5 10 1 1 0 6 1
